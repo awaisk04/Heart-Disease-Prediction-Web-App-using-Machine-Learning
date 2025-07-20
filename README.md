@@ -1,2 +1,4 @@
 # Heart-Disease-Prediction-Web-App-using-Machine-Learning
 A machine learning-based web application that predicts the risk of heart disease using user input data such as age, blood pressure, cholesterol, and other health indicators. Built with Python, Scikit-learn, and Streamlit/Flask.
+This project is a machine learning-powered web application designed to predict the risk of heart disease based on user-input medical data. Users provide health parameters such as age, gender, chest pain type, blood pressure, cholesterol, fasting blood sugar, ECG results, and more. The system processes this data using trained ML models like Logistic Regression and Random Forest to deliver real-time predictions. Built using Python, Scikit-learn, Pandas, and Streamlit or Flask, the app offers an intuitive interface for early diagnosis support and healthcare analysis.
+
